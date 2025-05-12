@@ -1,5 +1,5 @@
 # General
-base_url = "https://mofrim.dev"
+base_url = "https://mofrim.github.io"
 compile_sass = false
 minify_html = true
 generate_feeds = true
@@ -15,13 +15,8 @@ default_language = "en"
 
 [languages.en]
 build_search_index = true
-title = "mofrim.dev"
-description = "A minimalist Zola theme that prioritizes clean CSS and avoids heavy JavaScript. Enjoy a seamless user experience with lightning-fast load times. Let your content take center stage in a clutter-free, elegant design that enhances readability. Responsive and efficient, anemone brings focus to your ideas."
-
-[languages.fr]
-build_search_index = true
-title = "mofrim.dev"
-description = "Un thème Zola minimaliste qui privilégie un CSS épuré et évite le JavaScript lourd. Profitez d'une expérience utilisateur fluide avec des temps de chargement ultra-rapides. Mettez votre contenu en valeur grâce à un design épuré et élégant qui améliore la lisibilité. Réactif et efficace, Anémone met en valeur vos idées."
+title = "mofrim.github.io"
+description = "mofrim's web-presence"
 
 [markdown]
 render_emoji = true
@@ -40,10 +35,10 @@ internal_level = "warn"
 
 # Extra
 [extra]
-author = "Speyll"
+author = "mofrim"
 favicon = "favicon.ico"
 list_pages = false
-twitter_card = true
+twitter_card = false
 enable_search = true
 
 ## Navigation
