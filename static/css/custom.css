@@ -37,3 +37,15 @@ a.mytag:hover {
 	background-color: var(--tag);
 	color: var(--bg);
 }
+
+.snod {
+	margin-top: 60px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.snod.caption {
+	margin-top: 0px;
+	margin-bottom: 60px;
+	text-align: center;
+}

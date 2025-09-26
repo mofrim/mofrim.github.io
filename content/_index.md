@@ -10,6 +10,8 @@ list_tags = true
 
 ## [snippet of the day](#snod)
 
+<div class="snod">
+
 ```cpp
 const std::string ShrubberyCreationForm::_ascii_tree = "\n\
        +\n\
@@ -18,7 +20,12 @@ const std::string ShrubberyCreationForm::_ascii_tree = "\n\
     + + + +\n\
       |||\n";
 ```
-(... oh what a beautiful shrubbery :)
+<div class="snod caption">
+
+... oh what a beautiful shrubbery :)
+
+</div>
+</div>
 
 ## [selected posts](#selected)
 
