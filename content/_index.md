@@ -4,13 +4,22 @@ template = "index.html"
 list_tags = true
 +++
 
-# Welcome to mofrim's blog.
+# Welcome to mofrim's blog 🖖
 
-Here i want to document and publish a little bit of what i do day in day out. 
+## snippet of the day
 
-> *"Useless blockquote"*
+```cpp
+const std::string ShrubberyCreationForm::_ascii_tree = "\n\
+       +\n\
+      + +\n\
+     + + +\n\
+    + + + +\n\
+      |||\n";
+```
+(... oh what a beautiful shrubbery :)
 
-## my post hall-of-fame
+## selected posts
 
-- 🥣 [yet another blog post](./blog/yet-another-test-post/)
+- 2025-08-25: [Write-up about philosophers problem](./blog/philosophers-math/)
+
 
