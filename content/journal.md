@@ -1,16 +1,15 @@
 +++
 title = "mofrim's dev journal"
-date = 2019-10-05
 draft = false
-
-[extra]
-display_published = false
 +++
 
 ### 2025-09-26
 
 Exactly one month later! but yeah, finally the site seems to be in lgtm state!
 \\(e^{i \pi} = -1\\), btw.
+
+One more thing: definitely the next `TODO: add _cheatsheets_ page and section!`
+because there are already some in the pipeline...
 
 ### 2025-08-26 🔧
 

@@ -16,11 +16,11 @@ wonderful free ressource the internet offers, whenever i can.
 May main interests / Skills are:
 
 - OpenSource Software / FreeSoftware Movement
-- C / C++ (in the future Rust), Linux system programming
+- C / C++ (in the future Rust), Python, Linux system programming
 - Webdev (Typescript, React, FastAPI, C++ backends)
 - DevOps (NixOS, Ansible, Docker, CI/CD)
-- Security
-- Math (yes, i am still trying to finish my bachelor along the way)
+- Cyber-Security
+- Math (yes, i am still trying to finish my BSc along the way ;)
 
 ...and guess what? I also like doing quite some things that are not at all
 related to computers, like rock climbing, mountaineering 🏔️, ski touring ⛷ ;)
@@ -31,10 +31,9 @@ to me today.
 
 ### how you can contact me:
 
-Stay connected with us:
+still thinking about how i will handle this...
 
-- Email: [mofrim@posteo.de](mailto:mofrim@posteo.de)
-- Code Repositories: 
+- code repositories:
     - [mofrim@GitHub](https://github.com/mofrim)
     - [mofrim@codeberg](https://codeberg.org/mofrim)
 - @mofrim anywhere else.
