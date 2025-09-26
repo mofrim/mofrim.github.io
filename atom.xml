@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title></title>
+    <link href="https://mofrim.github.io/atom.xml" rel="self"/>
+    <link href="https:&#x2F;&#x2F;mofrim.github.io"/>
+    <updated>2025-09-26T19:39:06+0000</updated>
+    <id>https:&#x2F;&#x2F;mofrim.github.io</id>
+
+    
+    
+    
+    
+        
+    
+        
+        <entry>
+            <title>About mofrim</title>
+            <link href="https:&#x2F;&#x2F;mofrim.github.io&#x2F;about&#x2F;"/>
+            <updated>2025-08-26T00:00:00+0000</updated>
+            <id>https:&#x2F;&#x2F;mofrim.github.io&#x2F;about&#x2F;</id>
+            <content type="html">&amp;lt;p&amp;gt;Hi hi 👋&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;This is page is about me, &amp;lt;em&amp;gt;mofrim&amp;lt;&amp;#x2F;em&amp;gt;.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;ATM i study software development, officially at 42 Programming School in
+Wolfsburg &amp;#x2F; Germany and a lot more at home, on a train, somewhere else using all
+wonderful free ressource the internet offers, whenever i can.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;May main interests &amp;#x2F; Skills are:&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;OpenSource Software &amp;#x2F; FreeSoftware Movement&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;C &amp;#x2F; C++ (in the future Rust), Python, Linux system programming&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;Webdev (Typescript, React, FastAPI, C++ backends)&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;DevOps (NixOS, Ansible, Docker, CI&amp;#x2F;CD)&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;Cyber-Security&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;Math (yes, i am still trying to finish my BSc along the way ;)&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ul&amp;gt;
+&amp;lt;p&amp;gt;…and guess what? I also like doing quite some things that are not at all
+related to computers, like rock climbing, mountaineering 🏔️, ski touring ⛷ ;)&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;I consider myself a learner in all fields because most tech fields seem relevant
+to me today.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;h3 id=&amp;quot;how-you-can-contact-me&amp;quot;&amp;gt;how you can contact me:&amp;lt;&amp;#x2F;h3&amp;gt;
+&amp;lt;p&amp;gt;still thinking about how i will handle this…&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;code repositories:
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;mofrim&amp;quot;&amp;gt;mofrim@GitHub&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;codeberg.org&amp;#x2F;mofrim&amp;quot;&amp;gt;mofrim@codeberg&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ul&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;@mofrim anywhere else.&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ul&amp;gt;
+</content>
+        </entry>
+        
+    
+    
+    
+        
+        
+            
+            <entry>
+                <title>philosophers math</title>
+                <link href="https:&#x2F;&#x2F;mofrim.github.io&#x2F;blog&#x2F;philosophers-math&#x2F;"/>
+                <updated>2025-08-25T00:00:00+0000</updated>
+                <id>https:&#x2F;&#x2F;mofrim.github.io&#x2F;blog&#x2F;philosophers-math&#x2F;</id>
+                <content type="html">&amp;lt;p&amp;gt;This is a little write-up of the logical &amp;#x2F; mathematical constraints of the 42
+philosophers problem. If you find any mistakes or have any additional remarks,
+please let me know!&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;&amp;#x2F;pdfs&amp;#x2F;philo_math.pdf&amp;quot;&amp;gt;philo math pdf&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;p&amp;gt;
+</content>
+            </entry>
+            
+        
+    
+</feed>
