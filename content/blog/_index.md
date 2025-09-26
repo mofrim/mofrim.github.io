@@ -4,4 +4,4 @@ title = "All my blog posts"
 sort_by = "date"
 +++
 
-[(-> Tag List)](/tags)
+([browse by tags](/tags))
