@@ -1,0 +1,8 @@
+<ul>
+  {% for tag in page.taxonomies.tags %}
+  <li>
+    <a href="{{ tag.permalink }}">#{{ tag.name }}</a>
+    ({{ tag.pages | length }} posts)
+  </li>
+  {% endfor %}
+</ul>

@@ -1,17 +1,30 @@
 {% extends "base.html" %}
 
 {% block content %}
+
     {{ section.content | safe }}
 
-<h1> hello! </h1>
+
+	{% if section.extra.list_tags %}
+	<div style="margin-top: 40px;">
+		<h4> browse posts by tags: </h4>
+		{# now we are getting somewhere! #}
+		{% set tags = get_taxonomy(kind="tags") %}
+		{% for tag in tags.items %}
+			<a href="{{ tag.permalink }}"> @{{ tag.name }}</a><small>({{ tag.pages | length }} posts)</small>
+		{% endfor %}
+	</div>
+	{% endif %}
+
+		{# {{ __tera_context }} #}
+
 
     {% if config.extra.list_pages %}
     <ul class="posts">
         {% for page in section.pages %}
         <li>
             <a href="{{ page.permalink }}">{{ page.title }}</a>
-            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span>
-        </li>
+            <span class="date">{{ page.date | date(format="%Y-%m-%d") }}</span> </li>
         {% endfor %}
     </ul>
     {% endif %}
@@ -19,4 +32,5 @@
     {% if paginator %}
         {% include "partials/pagination.html" %}
     {% endif %}
+
 {% endblock %}

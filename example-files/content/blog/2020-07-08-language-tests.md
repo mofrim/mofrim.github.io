@@ -1,7 +1,7 @@
 +++
 title = "Language Tests"
 [taxonomies]
-  tags = ["example"]
+  tags = ["example", "bla"]
 [extra]
 display_published = true 
 author = "Speyll"
