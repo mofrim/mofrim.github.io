@@ -13,10 +13,10 @@ taxonomies = [
 # Language
 default_language = "en"
 
-[languages.en]
-build_search_index = true
-title = "mofrim.github.io"
-description = "mofrim's web-presence"
+# [languages.en]
+# build_search_index = true
+# title = "mofrim.github.io"
+# description = "mofrim's web-presence"
 
 [markdown]
 render_emoji = true
