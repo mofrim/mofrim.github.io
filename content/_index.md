@@ -37,6 +37,22 @@ const std::string ShrubberyCreationForm::_ascii_tree = "\n\
 </div>
 </div>
 
+## lesson of the day
+
+<div class="lesson">
+
+<!-- > the length of a function is inversely proportional to its complexity and level -->
+<!-- > of indentation -->
+
+The length of a function is inversely proportional to its complexity and 
+indentation level of that function!
+
+</div>
+
+<div class="lesson_caption">
+(source: idk?)
+</div>
+
 ## selected posts
 
 - 2025-08-25: [Write-up about philosophers problem](./blog/philosophers-math/)
