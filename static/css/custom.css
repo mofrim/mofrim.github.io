@@ -28,6 +28,23 @@
 	--tag: lightgreen;
 }
 
+/* overriding suCSS settings so that my 80 chars wrapped sources fit into the
+* pre boxes. also deactivated max-height for them. */
+pre {
+	font-size: 0.9rem;
+	overflow: scroll;
+	max-height: none;
+}
+
+/* i would like scrollbars to be always shown, but i deactivated max-height for
+* source-code listings (aka `pre`) anyway. we'll see ;) */
+* {
+  scrollbar-color: var(--accent) var(--bg-light);
+  /* scrollbar-width: thin; */
+  scrollbar-width: auto;
+  scrollbar-height: thin;
+}
+
 a.mytag {
 	font-style: italic;
 	color: var(--tag);
