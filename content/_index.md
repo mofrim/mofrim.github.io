@@ -4,16 +4,19 @@ template = "index.html"
 list_tags = true
 +++
 
-# Welcome to mofrim's blog 🖖
+# Welcome 🖖 to my blog!
 
 <div class="greeting">
 
 ```c
 /************************************************************************
- *      this shall be the place where i document my dev journey!        *
- * here you will find coding projects, snippets, insights, cheatsheets, *
+ *   This will be the place where i document my dev journey. For now.   *
+  *                                                                      * 
+ * Here you will find coding projects, snippets, insights, cheatsheets, *
  *     howtos, eventually a link-list and much more (atm not yet).      *
- ************************************************************************/
+ *                                                                      *
+ *                             _mofrim_                                 *
+  ************************************************************************/
 ```
 
 </div>

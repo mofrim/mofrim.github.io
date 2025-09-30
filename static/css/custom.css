@@ -66,13 +66,15 @@ a.mytag:hover {
 }
 
 .greeting {
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin: 40px 40px 40px 40px;
 	border-color: transparent;
 }
 
 .greeting pre {
 	border: 0px solid  black;
+	text-align: center;
+	font-weight: bold;
+	background-color: var(--fg);
 }
 
 .lesson {

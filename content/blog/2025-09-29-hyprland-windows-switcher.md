@@ -1,5 +1,5 @@
 +++
-title = "my hyprland keep-going-window-switcher-script"
+title = "The Hyprland switch-focus-or-create-ws-script"
 date = 2025-09-29
 draft = false
 template = "blog/page.html"
@@ -23,13 +23,13 @@ windows the focus is switched as usual. This makes switching to new workspaces
 much easier.
 
 Maybe someone else can find this useful. Of course i searched for something
-similar, but i couldn't find anything.
+similar, but i couldn't find anything. So, here it is:
 
 
 ```sh
 #!/usr/bin/env bash
 
-# This is my keep-going-window-switcher-script. If there is no more window left
+# This is my switch-focus-or-create-ws-script. If there is no more window left
 # or right of the current one will switch to the next workspace. So far, at
 # least, when moving to the right, this leads to creation of new workspaces.
 
