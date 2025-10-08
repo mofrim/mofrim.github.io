@@ -26,16 +26,12 @@ list_tags = true
 <div class="snod">
 
 ```cpp
-const std::string ShrubberyCreationForm::_ascii_tree = "\n\
-       +\n\
-      + +\n\
-     + + +\n\
-    + + + +\n\
-      |||\n";
+// a constant array to functions type `int *func(int)`
+int *(*const funcArr0[])(int) = {func1, func2, func3};
 ```
 <div class="snod caption">
 
-... oh what a beautiful shrubbery :)
+... W-O-W!
 
 </div>
 </div>
