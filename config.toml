@@ -1,5 +1,5 @@
 # General
-base_url = "https://mofrim.github.io"
+base_url = "https://mofrim.codeberg.page"
 compile_sass = false
 minify_html = true
 generate_feeds = true
