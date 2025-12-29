@@ -17,7 +17,7 @@ access any of my matrix-chats (as i my account was @matrix.org) i was happy to
 having found a new matrix-homeserver @fsfe.org since i became a supporter this
 year. But...
 
-> How painful can it be to migrate to a new account?! 
+***How painful can it be to migrate to a new account?!***
 
 I mean, the data is all there. But as i am trying to be a dev myself i fully
 understand that certain feature are just not top-priority for the
