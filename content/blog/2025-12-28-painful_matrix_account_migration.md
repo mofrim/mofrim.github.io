@@ -37,9 +37,9 @@ me.
    rooms where your old account is admin run `/op @blabla:fsfe.org 100`
 4) Make your old account leave the rooms where the new account now has
    successfully joined by running `/part` or clicking on **Leave Room**.
-5) Sadly, the DM chats will now be group chats, as there temporarily have been
+5) Sadly, the DM (DirectMessages) chats will now be group chats, as there temporarily have been
    more than 2 participants. In order to fix that run `/devtools` copy the
-   internal room link, go to `Explore account data -> m.direct`. You might find
+   internal room link, go to `Explore account data -> m.direct`. There you might find
    json that looks like this:
 
    ```json
@@ -50,21 +50,23 @@ me.
       ]
     }
    ```
-   paste the quoted internal room link into the brackets after your new account,
-   so the result looks like
+   According to the [Matrix
+   Spec](https://spec.matrix.org/v1.4/client-server-api/#mdirect) the `m.direct`
+   spec is a map storing information about which rooms are considered DM-rooms.
+   So all we need to do here is add the room ID of the DM-chat to the list of
+   DM-rooms belonging to the newhome-account. Say,
+   `!TzgPyzpAbKbhxTplfI:matrix.org` is the current DM-chat-roomlink then the
+   result after editing should look like this (also did cleanup the oldhome
+   stuff):
 
    ```json
     {
       "@blabla:newhome.org": [
-        "!TzgPyzpAbKbhxTplfI:matrix.org"
-      ],
-      "@blabla:oldhome.org": [
+        "!TzgPyzpAbKbhxTplfI:matrix.org",
         "!BzgPnypAbKBhxTLlFI:matrix.org"
       ]
     }
    ```
-   and save that.
-
    This is about it. `TODO:` I would really love to write a script for that. Or some
    other tool making this simpler. Maybe some day 🐧
 
