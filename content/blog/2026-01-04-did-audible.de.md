@@ -20,7 +20,7 @@ Allem Scham zum Trotz schreibe ich jetzt hier davon, auf dass sich evtl. andere 
 Nun ja, wo ein Wille, da ein Skript! So here we go:
 
 1) Loggt euch auf der Audible-Webseite ein
-2) Ladet alle Hörbücher, die ihr noch behalten wollt (im AAX-Format) herunter
+2) Ladet alle Hörbücher, die ihr noch behalten wollt (im AAX-Format) in einen einzelnen Ordner herunter
 3) Installiert euch [audible-cli](https://github.com/mkb79/audible-cli) und [aaxtomp3](https://github.com/KrumpetPirate/AAXtoMP3)
 4) Konfiguriert `audible-cli` für euren Account ([https://github.com/mkb79/audible-cli?tab=readme-ov-file#-quickstart](https://github.com/mkb79/audible-cli?tab=readme-ov-file#-quickstart))
 5) Lasst in dem selben Ordner in dem auch alle aax-Dateien sind dieses Skript durchlaufen:
@@ -42,6 +42,6 @@ Nun ja, wo ein Wille, da ein Skript! So here we go:
     done
 
    ```
-  Am Ende habt ihr alle eure EIGENEN Hörbücher schön, sauber in einer Ordner-Struktur, als MP3 portabel auf allen Geräten abspielbar, für alle Ewigkeiten gesichert und müsst der Amazon-Heuschrecke nicht mehr Geld in den Rachen werfen. 
+  Am Ende habt ihr alle eure **_eigenen_** Hörbücher schön, sauber in einer Ordner-Struktur, als MP3 portabel auf allen Geräten abspielbar, für alle Ewigkeiten gesichert und müsst der Amazon-Heuschrecke nicht mehr Geld in den Rachen werfen 🥳✊🐧
 
 
