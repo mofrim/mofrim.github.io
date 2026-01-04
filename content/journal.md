@@ -3,12 +3,16 @@ title = "mofrim's dev journal"
 draft = false
 +++
 
+### 2026-01-04
+
+eehm, yes. later. i want this: `TODO`: [https://codeberg.org/alanpearce/zola-bearblog/pulls/10/files](https://codeberg.org/alanpearce/zola-bearblog/pulls/10/files)
+
 ### 2025-09-26
 
 Exactly one month later! but yeah, finally the site seems to be in lgtm state!
 \\(e^{i \pi} = -1\\), btw.
 
-One more thing: definitely the next `TODO: add _cheatsheets_ page and section!`
+One more thing: definitely the next `TODO`: add _cheatsheets_ page and section!
 because there are already some in the pipeline...
 
 ### 2025-08-26 🔧

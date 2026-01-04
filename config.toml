@@ -18,6 +18,13 @@ default_language = "en"
 # title = "mofrim.github.io"
 # description = "mofrim's web-presence"
 
+[languages.de]
+generate_feeds = true # there will be a feed for French content
+build_search_index = true
+taxonomies = [
+    {name = "tags", feed = true, paginate_by = 10},
+]
+
 [markdown]
 render_emoji = true
 external_links_target_blank = true
@@ -49,8 +56,8 @@ katex_auto_render = true
 
 ## Navigation
 header_nav = [
-  { url = "/", name_en = "/home", name_fr = "/accueil" },
-  { url = "/about", name_en = "/about", name_fr = "/concernant" },
-  { url = "/journal", name_en = "/journal", name_fr = "/journal" },
-  { url = "/blog", name_en = "/blog", name_fr = "/blog" }
+  { url = "/", name_en = "/home", name_de = "/home" },
+  { url = "/about", name_en = "/about", name_de = "/about" },
+  { url = "/journal", name_en = "/journal", name_de = "/journal" },
+  { url = "/blog", name_en = "/blog", name_de = "/blog" }
 ]

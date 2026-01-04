@@ -31,7 +31,7 @@ int *(*const funcArr0[])(int) = {func1, func2, func3};
 ```
 <div class="snod caption">
 
-... without words!
+... W-O-W!
 
 </div>
 </div>
