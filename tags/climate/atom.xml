@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title></title>
+    <link href="https://mofrim.codeberg.page/atom.xml" rel="self"/>
+    <link href="https:&#x2F;&#x2F;mofrim.codeberg.page"/>
+    <updated>2026-01-07T06:50:25+0000</updated>
+    <id>https:&#x2F;&#x2F;mofrim.codeberg.page</id>
+
+    
+    
+    
+    
+        
+    
+        
+        <entry>
+            <title>About mofrim</title>
+            <link href="https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;about&#x2F;"/>
+            <updated>2025-08-26T00:00:00+0000</updated>
+            <id>https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;about&#x2F;</id>
+            <content type="html">&amp;lt;p&amp;gt;Hi hi 👋&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;This page is about me, &amp;lt;em&amp;gt;mofrim&amp;lt;&amp;#x2F;em&amp;gt;.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;For the last 2-3 years i have been studying software development, officially at
+42 Programming School in Wolfsburg &amp;#x2F; Germany and a lot more at home, on a train,
+somewhere else, using all the wonderful free resources the internet has to
+offer, whenever i can.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;My main interests &amp;#x2F; skills are:&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;OpenSource Software &amp;#x2F; FreeSoftware Movement&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;C &amp;#x2F; C++ (in the future Rust), Python, Linux system programming&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;Webdev (Typescript, React, FastAPI, C++ backends)&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;DevOps (NixOS, Ansible, Docker)&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;Cyber-Security&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;Math (yes, i am still trying to finish my BSc along the way 🤪)&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ul&amp;gt;
+&amp;lt;p&amp;gt;…and guess what? I also like doing quite some things that are not at all
+related to computers, like rock climbing, mountaineering 🏔️, ski touring ⛷ ;)&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;I consider myself a learner in all fields because most tech fields seem relevant
+to me today.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;h3 id=&amp;quot;how-you-can-contact-me&amp;quot;&amp;gt;how you can contact me:&amp;lt;&amp;#x2F;h3&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;code repositories:
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;github.com&amp;#x2F;mofrim&amp;quot;&amp;gt;mofrim@GitHub&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;codeberg.org&amp;#x2F;mofrim&amp;quot;&amp;gt;mofrim@codeberg&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ul&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;@mofrim anywhere else.&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ul&amp;gt;
+</content>
+        </entry>
+        
+    
+    
+    
+        
+        
+            
+            <entry>
+                <title>Painfully migrating to a new matrix account</title>
+                <link href="https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;painful-matrix-account-migration&#x2F;"/>
+                <updated>2025-12-28T00:00:00+0000</updated>
+                <id>https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;painful-matrix-account-migration&#x2F;</id>
+                <content type="html">&amp;lt;p&amp;gt;Ouff!&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;After the 2 cloudflare-outages this year, which led to me not being able to
+access any of my matrix-chats (as i my account was @matrix.org) i was happy to
+having found a new matrix-homeserver @fsfe.org since i became a supporter this
+year. But…&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;em&amp;gt;&amp;lt;strong&amp;gt;How painful can it be to migrate to a new account?!&amp;lt;&amp;#x2F;strong&amp;gt;&amp;lt;&amp;#x2F;em&amp;gt;&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;I mean, the data is all there. But as i am trying to be a dev myself i fully
+understand that certain feature are just not top-priority for the
+matrix-element-team. So, here is what i did following
+&amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;finnes.dev&amp;#x2F;blog&amp;#x2F;2024&amp;#x2F;10-06-migrate-your-existing-matrix-account-the-harder-but-safe-way&amp;#x2F;&amp;quot;&amp;gt;this&amp;lt;&amp;#x2F;a&amp;gt;
+lovely tutorial by someone who went through the same painful experience before
+me.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;ol&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Create new account &amp;lt;code&amp;gt;@blabla:newhome.org&amp;lt;&amp;#x2F;code&amp;gt; (old account: &amp;lt;code&amp;gt;@blabla:oldhome.org&amp;lt;&amp;#x2F;code&amp;gt;).&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;In direct message rooms, or rooms where you are allowed to enter &amp;lt;code&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;code&amp;gt;-commands
+at the msg-prompt enter &amp;lt;code&amp;gt;&amp;#x2F;invite @blabla:oldhome.org Account Migration&amp;lt;&amp;#x2F;code&amp;gt;
+logged in in your old account. This simply makes inviting you new self
+faster, imho. If you are not allowed to execute commands you have to click an
+invitation or copy the room link and open it in another Matrix instance where
+you logged in with your new account.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;After accepting the invitation from your new account, in direct msg &amp;#x2F; or
+rooms where your old account is admin run &amp;lt;code&amp;gt;&amp;#x2F;op @blabla:fsfe.org 100&amp;lt;&amp;#x2F;code&amp;gt;&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Make your old account leave the rooms where the new account now has
+successfully joined by running &amp;lt;code&amp;gt;&amp;#x2F;part&amp;lt;&amp;#x2F;code&amp;gt; or clicking on &amp;lt;strong&amp;gt;Leave Room&amp;lt;&amp;#x2F;strong&amp;gt;.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Sadly, the DM (DirectMessages) chats will now be group chats, as there temporarily have been
+more than 2 participants. In order to fix that run &amp;lt;code&amp;gt;&amp;#x2F;devtools&amp;lt;&amp;#x2F;code&amp;gt; copy the
+internal room link, go to &amp;lt;code&amp;gt;Explore account data -&amp;amp;gt; m.direct&amp;lt;&amp;#x2F;code&amp;gt;. There you might find
+json that looks like this:&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;pre data-lang=&amp;quot;json&amp;quot; style=&amp;quot;background-color:#282a36;color:#f8f8f2;&amp;quot; class=&amp;quot;language-json &amp;quot;&amp;gt;&amp;lt;code class=&amp;quot;language-json&amp;quot; data-lang=&amp;quot;json&amp;quot;&amp;gt;&amp;lt;span&amp;gt; {
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;   &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;@blabla:newhome.org&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;: [],
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;   &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;@blabla:oldhome.org&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;: [
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;     &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;!BzgPnypAbKBhxTLlFI:matrix.org&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;   ]
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; }
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;&amp;#x2F;code&amp;gt;&amp;lt;&amp;#x2F;pre&amp;gt;
+&amp;lt;p&amp;gt;According to the &amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;spec.matrix.org&amp;#x2F;v1.4&amp;#x2F;client-server-api&amp;#x2F;#mdirect&amp;quot;&amp;gt;Matrix
+Spec&amp;lt;&amp;#x2F;a&amp;gt; the &amp;lt;code&amp;gt;m.direct&amp;lt;&amp;#x2F;code&amp;gt;
+spec is a map storing information about which rooms are considered DM-rooms.
+So all we need to do here is add the room ID of the DM-chat to the list of
+DM-rooms belonging to the newhome-account. Say,
+&amp;lt;code&amp;gt;!TzgPyzpAbKbhxTplfI:matrix.org&amp;lt;&amp;#x2F;code&amp;gt; is the current DM-chat-roomlink then the
+result after editing should look like this (also did cleanup the oldhome
+stuff):&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;pre data-lang=&amp;quot;json&amp;quot; style=&amp;quot;background-color:#282a36;color:#f8f8f2;&amp;quot; class=&amp;quot;language-json &amp;quot;&amp;gt;&amp;lt;code class=&amp;quot;language-json&amp;quot; data-lang=&amp;quot;json&amp;quot;&amp;gt;&amp;lt;span&amp;gt; {
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;   &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;@blabla:newhome.org&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;: [
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;     &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;!TzgPyzpAbKbhxTplfI:matrix.org&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;,
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;     &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;!BzgPnypAbKBhxTLlFI:matrix.org&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#eeeeee;&amp;quot;&amp;gt;&amp;amp;quot;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;   ]
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; }
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;&amp;#x2F;code&amp;gt;&amp;lt;&amp;#x2F;pre&amp;gt;
+&amp;lt;p&amp;gt;This is about it. &amp;lt;code&amp;gt;TODO:&amp;lt;&amp;#x2F;code&amp;gt; I would really love to write a script for that. Or some
+other tool making this simpler. Maybe some day 🐧&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;&amp;#x2F;li&amp;gt;
+&amp;lt;&amp;#x2F;ol&amp;gt;
+</content>
+            </entry>
+            
+        
+            
+            <entry>
+                <title>About precipitation in Göttingen (WIP)</title>
+                <link href="https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;a-little-climate-science&#x2F;"/>
+                <updated>2025-10-01T00:00:00+0000</updated>
+                <id>https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;a-little-climate-science&#x2F;</id>
+                <content type="html">&amp;lt;p&amp;gt;This is a &amp;lt;strong&amp;gt;biased&amp;lt;&amp;#x2F;strong&amp;gt; selection of months where a declining trend in total
+precipitation sum for &amp;lt;strong&amp;gt;only one&amp;lt;&amp;#x2F;strong&amp;gt; weather-station near Göttingen can be found.
+This is still heavy WIP and has &amp;lt;strong&amp;gt;no&amp;lt;&amp;#x2F;strong&amp;gt; scientific significance so far.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;I am working on this in order to double-check my stomach feeling and other
+possibly biased obersvations of nature in my surroundings.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;The final goal her would be to have some automated script &amp;#x2F; service that posts
+regular updates about certain key climate statistics about selected places of my
+interest.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;&amp;#x2F;imgs&amp;#x2F;prec_goe_apr-aug_2004-2024.png&amp;quot; alt=&amp;quot;bla&amp;quot; &amp;#x2F;&amp;gt;&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;Datasouce: &amp;lt;a rel=&amp;quot;noopener&amp;quot; target=&amp;quot;_blank&amp;quot; href=&amp;quot;https:&amp;#x2F;&amp;#x2F;www.wetterstation-goettingen.de&amp;#x2F;wetterarchiv-2020.html&amp;quot;&amp;gt;Wetterstation Göttingen&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;p&amp;gt;
+</content>
+            </entry>
+            
+        
+            
+            <entry>
+                <title>The Hyprland switch-focus-or-create-ws-script</title>
+                <link href="https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;hyprland-windows-switcher&#x2F;"/>
+                <updated>2025-09-29T00:00:00+0000</updated>
+                <id>https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;hyprland-windows-switcher&#x2F;</id>
+                <content type="html">&amp;lt;p&amp;gt;Already some time ago i hacked together this script for
+windows&amp;#x2F;workspace-switching in my current &amp;lt;em&amp;gt;hyprland&amp;lt;&amp;#x2F;em&amp;gt; setup. I have bound this to
+the &amp;lt;code&amp;gt;$mainMod + h&amp;#x2F;l&amp;lt;&amp;#x2F;code&amp;gt; . Why? I have one quite small laptop with a 12“ display and
+when working on it i felt like i wanted to have almost every window being as
+large as possible. So i ended up putting every new window on a seperate workspace (a
+bit like scrolling window-managers like &amp;lt;em&amp;gt;niri&amp;lt;&amp;#x2F;em&amp;gt; would do). With this script, in
+situations where there is no more window to the right on my current ws, a new ws
+is created. If there are still windows to the right of the currently focused
+windows the focus is switched as usual. This makes switching to new workspaces
+much easier.&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;Maybe someone else can find this useful. Of course i searched for something
+similar, but i couldn’t find anything. So, here it is:&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;pre data-lang=&amp;quot;sh&amp;quot; style=&amp;quot;background-color:#282a36;color:#f8f8f2;&amp;quot; class=&amp;quot;language-sh &amp;quot;&amp;gt;&amp;lt;code class=&amp;quot;language-sh&amp;quot; data-lang=&amp;quot;sh&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;#!&amp;#x2F;usr&amp;#x2F;bin&amp;#x2F;env bash
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# This is my switch-focus-or-create-ws-script. If there is no more window left
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# or right of the current one will switch to the next workspace. So far, at
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# least, when moving to the right, this leads to creation of new workspaces.
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;out&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;=&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;$(&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;hyprctl&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt; dispatch movefocus $&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;1&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;)&amp;amp;quot;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;winno_on_cur_ws&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;=&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;$(&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;hyprctl&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt; workspaces&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt; -j &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;| &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;\
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;	&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;jq &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;#39;.[] | select(.id == &amp;amp;#39;$(&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;hyprctl&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt; activeworkspace&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt; -j &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;| &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;jq &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;#39;.id&amp;amp;#39;)&amp;amp;#39;)&amp;amp;#39; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;| &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;\
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;	&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;jq &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;#39;.windows&amp;amp;#39;)&amp;amp;quot;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# `hyprctl dispatch movefocus r` prints &amp;amp;quot;Nothing to focus to in direction r&amp;amp;quot;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# when rightmost window is already reached. But we only want to switch to next
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# ws if we have reached that rightmost win =&amp;amp;gt; `grep Nothing` must be empty. When
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# reaching any fullscreened ws while cycling this leads to being &amp;amp;quot;trapped&amp;amp;quot;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# there, as trying to switch will only loop through all windows on that ws. This
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#6272a4;&amp;quot;&amp;gt;# is desired behavior in my case.
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;if &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;[ &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt;-z &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;$(&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;echo &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;$&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;out &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;| &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;grep &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;Nothing&amp;amp;quot;)&amp;amp;quot; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;] &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;amp;amp;&amp;amp;amp; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;[ &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;$&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;winno_on_cur_ws &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt;-ne&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; 0 &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;]&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;; then
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;	&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;exit
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;elif &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;[ &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;$&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;1&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;== &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;l&amp;amp;quot; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;]&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;; then
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;	&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;hyprctl&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; dispatch workspace&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt; -1
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;elif &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;[ &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;$&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ffffff;&amp;quot;&amp;gt;1&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;== &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#f1fa8c;&amp;quot;&amp;gt;&amp;amp;quot;r&amp;amp;quot; &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#8be9fd;&amp;quot;&amp;gt;]&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;; then
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;	&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#50fa7b;&amp;quot;&amp;gt;hyprctl&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; dispatch workspace +1
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;fi
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;&amp;#x2F;code&amp;gt;&amp;lt;&amp;#x2F;pre&amp;gt;
+&amp;lt;p&amp;gt;copy the script to &amp;lt;code&amp;gt;~&amp;#x2F;.config&amp;#x2F;hypr&amp;#x2F;scripts&amp;#x2F;switch_win_ws.sh&amp;lt;&amp;#x2F;code&amp;gt; &amp;amp;amp; add the following
+binding to your &amp;lt;code&amp;gt;hyprland.conf&amp;lt;&amp;#x2F;code&amp;gt;:&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;pre data-lang=&amp;quot;conf&amp;quot; style=&amp;quot;background-color:#282a36;color:#f8f8f2;&amp;quot; class=&amp;quot;language-conf &amp;quot;&amp;gt;&amp;lt;code class=&amp;quot;language-conf&amp;quot; data-lang=&amp;quot;conf&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt;bind &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;= $mainMod,&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; h&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;,&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; exec&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;, ~&amp;#x2F;.&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;config&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;hypr&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;scripts&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;switch_win_ws&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;.&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;sh l
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;font-style:italic;color:#ffb86c;&amp;quot;&amp;gt;bind &amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;= $mainMod,&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; l&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;,&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt; exec&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;, ~&amp;#x2F;.&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;config&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;hypr&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;scripts&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;&amp;#x2F;&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;switch_win_ws&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span style=&amp;quot;color:#ff79c6;&amp;quot;&amp;gt;.&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;span&amp;gt;sh r
+&amp;lt;&amp;#x2F;span&amp;gt;&amp;lt;&amp;#x2F;code&amp;gt;&amp;lt;&amp;#x2F;pre&amp;gt;
+</content>
+            </entry>
+            
+        
+            
+            <entry>
+                <title>philosophers math</title>
+                <link href="https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;philosophers-math&#x2F;"/>
+                <updated>2025-08-25T00:00:00+0000</updated>
+                <id>https:&#x2F;&#x2F;mofrim.codeberg.page&#x2F;blog&#x2F;philosophers-math&#x2F;</id>
+                <content type="html">&amp;lt;p&amp;gt;This is a little write-up of the logical &amp;#x2F; mathematical constraints of the 42
+philosophers problem. If you find any mistakes or have any additional remarks,
+please let me know!&amp;lt;&amp;#x2F;p&amp;gt;
+&amp;lt;p&amp;gt;&amp;lt;a href=&amp;quot;&amp;#x2F;pdfs&amp;#x2F;philo_math.pdf&amp;quot;&amp;gt;philo math pdf&amp;lt;&amp;#x2F;a&amp;gt;&amp;lt;&amp;#x2F;p&amp;gt;
+</content>
+            </entry>
+            
+        
+    
+</feed>
