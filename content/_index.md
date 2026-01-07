@@ -10,8 +10,8 @@ list_tags = true
 
 ```c
 /************************************************************************
- *   This will be the place where i document my dev journey. For now.   *
-  *                                                                      * 
+ *                                                                      *
+  *                              Hi there!                               * 
  * Here you will find coding projects, snippets, insights, cheatsheets, *
  *     howtos, eventually a link-list and much more (atm not yet).      *
  *                                                                      *
